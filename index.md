@@ -41,7 +41,7 @@
 <img src="img/example_img1.jpg" width="300" height="400"/>
 <img src="img/example_img2.jpg" width="300" height="400"/>  <br>
 
-<br><br>
+<br>
 
 # [대표 이미지]
 
