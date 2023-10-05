@@ -133,10 +133,8 @@
 
 |번호|이름|이미지|  
 |:---:|:---:|:---:|  
-| 1 | Playar |  |
-| 2 | Enemy  |  |
-| 3 | Bullet |  |
-| 4 | Skill  |  |
+| 1 | Player |  |
+| 2 | Obstacle  |  |
 
 <br><br><br>
 
