@@ -37,16 +37,17 @@
 
 # [관련 이미지 & 동영상]
 
-전체 컨셉 이미지
+**전체 컨셉 이미지**  <br>
+<img src="img/example_img1.jpg" width="300" height="400"/>
+<img src="img/example_img2.jpg" width="300" height="400"/>  <br>
 
-게임 플레이 이미지
-
-<br><br><br>
+<br><br>
 
 # [대표 이미지]
 
-<img src="example_img1.jpg" width="200" height="400"/>
-<br><br>
+<img src="img/main_Image.png" width="600" height="400"/>  <br>
+<br>
+
 # [컨셉 & 대표이미지 기반 작품묘사]
 > ### 대표이미지 기반
 
