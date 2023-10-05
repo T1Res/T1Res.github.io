@@ -45,7 +45,7 @@
 
 # [대표 이미지]
 
-
+<img src="example_img1.jpg" width="200" height="400"/>
 <br><br>
 # [컨셉 & 대표이미지 기반 작품묘사]
 > ### 대표이미지 기반
