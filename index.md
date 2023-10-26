@@ -111,21 +111,21 @@
 
 |번호|이름|이미지|  
 |:---:|:---:|:---:|  
-| 1 | Player |  |
-| 2 | Target  |  |
-| 3 | floatingBoard  |  |
-| 4 | Tree  |  |
-| 5 | Ladder  |  |
-| 6 | jumpPad  |  |
-| 7 | obstacle  | 정형화된 장애물이 아닌 점프구간 등의통칭이므로 정해진 이미지가 없음 |
-| 8 | sewerPipe  |  |
-| 9 | fallingStone  |  |
-| 10 | icePlate  |  |
-| 11 | Spike  |  |
-| 12 | pendulumHammer  |  |
-| 13 | Pistone  |  |
-| 14 | windBlower  |  |
-| 15 | Lava  |  |
+| 1 | Player | <img src="player.png" width="200" height="200"/> |
+| 2 | Target | <img src="target.png" width="200" height="200"/> |
+| 3 | floatingBoard | <img src="floatingBoard.png" width="200" height="200"/> |
+| 4 | Tree | <img src="Tree.png" width="200" height="200"/> |
+| 5 | Ladder | <img src="Ladder.png" width="200" height="200"/> |
+| 6 | jumpPad | <img src="jumpPad.png" width="200" height="200"/> |
+| 7 | obstacle | 정형화된 장애물이 아닌 점프구간 등의통칭이므로 정해진 이미지가 없음 |
+| 8 | sewerPipe | <img src="sewerPipe.png" width="200" height="200"/> |
+| 9 | fallingStone | <img src="fallingStone.png" width="200" height="200"/> |
+| 10 | icePlate | <img src="icePlate.png" width="200" height="200"/> |
+| 11 | Spike | <img src="Spike.png" width="200" height="200"/> |
+| 12 | pendulumHammer | <img src="pendulumHammer.png" width="200" height="200"/> |
+| 13 | Pistone | <img src="Pistone.png" width="200" height="200"/> |
+| 14 | windBlower | <img src="windBlower.png" width="200" height="200"/> |
+| 15 | Lava | <img src="Lava.png" width="200" height="200"/> |
 
 <br><br><br>
 
@@ -170,7 +170,7 @@
 
 
 ## 4. 상태 뽑아보기
-
+> <img src="상태뽑아보기.PNG" width="800" height="600"/>
 <br>
 
 ## 5. 플레이어 파라미터
